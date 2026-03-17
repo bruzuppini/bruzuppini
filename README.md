@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Bruna Zuppini 💻
 
 - 💙 Em formação pela Generation Brasil!
-- 🔭 Desenvolvedora Fullstack em andamento..
+- 🔭 Desenvolvedora Fullstack em andamento...
 - 🌱 Aprendendo JavaScript, HTML e CSS!
 - 🎵 Pronomes: ela/dela.
 
