@@ -58,7 +58,7 @@
 
 ## 𖦹 current path
 
-<img src="https://img.shields.io/badge/building-fullstack%20projects-8B5CF6?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=1E0B4F" />
+<img src="https://img.shields.io/badge/building-fullstack%20projects-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=1E0B4F&cacheSeconds=3600" />
 <img src="https://img.shields.io/badge/improving-react%20skills-A78BFA?style=for-the-badge&logo=react&logoColor=white&labelColor=2D0B52" />
 <img src="https://img.shields.io/badge/working%20with-apis-C4B5FD?style=for-the-badge&logo=swagger&logoColor=1E0B4F&labelColor=3B0764" />
 
@@ -67,7 +67,7 @@
 
 <img src="https://img.shields.io/badge/learning-python-B388FF?style=for-the-badge&logo=python&logoColor=1E0B4F&labelColor=240046" />
 <img src="https://img.shields.io/badge/exploring-c++-9D4EDD?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=1E0B4F" />
-<img src="https://img.shields.io/badge/studying-c%23-7C3AED?style=for-the-badge&logo=csharp&logoColor=white&labelColor=120A2A" />
+<img src="https://img.shields.io/badge/studying-C%23-7C3AED?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=120A2A&cacheSeconds=3600" />
 
 </div>
 
@@ -82,7 +82,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/brunazuppini/">
-  <img src="https://img.shields.io/badge/linkedin-bruna%20zuppini-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2D0B52" />
+  <img src="https://img.shields.io/badge/linkedin-bruna%20zuppini-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2D0B52&cacheSeconds=3600" />
 </a>
 
 <a href="mailto:brunazuppini@gmail.com">
