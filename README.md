@@ -50,6 +50,7 @@ learning: Python | C++ | C#
 `interfaces bonitas · APIs funcionais · projetos com personalidade`
 
 </div>
+
 ---
 
 <div align="center">
