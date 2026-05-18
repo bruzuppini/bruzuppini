@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f0c29,50:302b63,100:24243e&text=Bruna%20Zuppini&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Fullstack%20Developer%20%E2%98%BE%20Frontend%20%7C%20Backend%20%7C%20APIs&descAlignY=58&descSize=16" />
+[<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f0c29,50:302b63,100:24243e&text=Bruna%20Zuppini&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Fullstack%20Developer%20%E2%98%BE%20Frontend%20%7C%20Backend%20%7C%20APIs&descAlignY=58&descSize=16" />](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,45:312e81,75:7e22ce,100:f5d0fe&text=Bruna%20Zuppini&section=header&reversal=false&fontColor=FFFFFF&fontSize=0&animation=fadeIn&desc=desenvolvedora%20fullstack%20%E2%98%85&descAlign=40&descAlignY=52&fontAlign=50&fontAlignY=40)
 
 ```txt
 ⋆｡°✩ somewhere between logic and moonlight ✩°｡⋆
@@ -67,9 +67,9 @@ const bruna = {
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=bruzuppini&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=c8a2ff&icon_color=c8a2ff&text_color=ffffff" />
+![Bruna's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruzuppini&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C8A2FF&icon_color=C8A2FF&text_color=FFFFFF&cache_seconds=1800)
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruzuppini&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=c8a2ff&text_color=ffffff" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruzuppini&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C8A2FF&text_color=FFFFFF&cache_seconds=1800)
 
 </div>
 
