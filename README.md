@@ -17,6 +17,8 @@
 <img src="https://img.shields.io/badge/Backend-5B21B6?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/APIs-9333EA?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-A855F7?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,nestjs,mysql,git,github,vscode" />
+<br />
 
 </div>
 
@@ -45,18 +47,6 @@
   </td>
   </tr>
 </table>
-</div>
-
----
-
-</div>
-
----
-
-<img src="https://img.shields.io/badge/Insomnia-7C3AED?style=for-the-badge&logo=insomnia&logoColor=white" />
-<img src="https://img.shields.io/badge/REST%20API-A855F7?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-9333EA?style=for-the-badge&logo=mysql&logoColor=white" />
-
 </div>
 
 ---
