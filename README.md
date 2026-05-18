@@ -1,6 +1,6 @@
 <div align="center">
 
-[<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,45:312e81,75:7e22ce,100:f5d0fe&text=Bruna%20Zuppini&section=header&reversal=false&fontColor=FFFFFF&fontSize=0&animation=fadeIn&desc=desenvolvedora%20fullstack%20%E2%98%85&descAlign=40&descAlignY=52&fontAlign=50&fontAlignY=40" />]()
+[<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:081C15,25:1B4332,50:40916C,75:74C69D,100:F1FAEE&text=Bruna%20Zuppini&section=header&reversal=false&fontColor=FFFFFF&fontSize=0&animation=fadeIn&desc=desenvolvedora%20fullstack%20%E2%98%85&descAlign=40&descAlignY=52&fontAlign=50&fontAlignY=40" />]()
 
 ```txt
 ⋆｡°✩ somewhere between logic and moonlight ✩°｡⋆
