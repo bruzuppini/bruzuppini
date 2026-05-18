@@ -81,9 +81,8 @@
   <img src="https://img.shields.io/badge/instagram-@bruzuppini-C4B5FD?style=for-the-badge&logo=instagram&logoColor=1E0B4F&labelColor=3B0764" />
 </a>
 
-
 <a href="https://www.linkedin.com/in/brunazuppini/">
-  <img src="https://img.shields.io/badge/LinkedIn-Bruna%20Zuppini-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2D0B52" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Bruna%20Zuppini&color=8B5CF6&label=LinkedIn&logo=linkedin&logoColor=white&labelColor=1E0B4F" />
 </a>
 
 <a href="mailto:brunazuppini@gmail.com">
