@@ -9,6 +9,8 @@
 
 <div align="center">
 
+<br />
+
 ```txt
 ⋆｡°✩ somewhere between logic and moonlight ✩°｡⋆
 ```
@@ -59,23 +61,6 @@
 | building fullstack projects | learning Python |
 | improving React skills | exploring C++ |
 | working with APIs | studying C# |
-
-</div>
-
----
-
-<div align="center">
-
-## ☽ a little more about me
-
-```js
-const bruna = {
-  code: ["JavaScript", "TypeScript", "SQL"],
-  stack: ["React", "Node.js", "NestJS"],
-  interests: ["UI", "APIs", "clean code", "creative projects"],
-  nextQuests: ["Python", "C++", "C#"]
-};
-```
 
 </div>
 
