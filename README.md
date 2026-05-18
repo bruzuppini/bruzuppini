@@ -23,51 +23,23 @@
 
 <table>
   <tr>
-    <td width="58%" valign="middle">
+    <td width="60%" valign="middle">
 
 ```yaml
 name: Bruna Zuppini
 role: Fullstack Developer
-
-code:
-  - JavaScript
-  - TypeScript
-  - SQL
-
-frontend:
-  - React
-  - Vite
-  - HTML
-  - CSS
-
-backend:
-  - Node.js
-  - NestJS
-  - REST APIs
-
-tools:
-  - Git
-  - GitHub
-  - Insomnia
-  - VS Code
-
-learning:
-  - Python
-  - C++
-  - C#
+code: JavaScript | TypeScript | SQL
+frontend: React | Vite | HTML | CSS
+backend: Node.js | NestJS | REST APIs
+tools: Git | GitHub | Insomnia | VS Code
+learning: Python | C++ | C#
 ```
 
   </td>
 
-  <td width="42%" align="center" valign="middle">
+  <td width="40%" align="center" valign="middle">
 
-<img src="https://i.pinimg.com/originals/0e/e3/86/0ee3869dd95cd4ae8c740bddb7148228.gif" width="260px" style="border-radius: 18px;" />
-
-<br />
-
-```txt
-✦ coding under violet skies ✦
-```
+<img src="https://i.pinimg.com/originals/0e/e3/86/0ee3869dd95cd4ae8c740bddb7148228.gif" width="260px" />
 
   </td>
   </tr>
@@ -75,7 +47,7 @@ learning:
 
 <div align="center">
 
-Desenvolvedora Fullstack focada em criar interfaces bonitas, APIs funcionais e projetos web com personalidade.
+`interfaces bonitas · APIs funcionais · projetos com personalidade`
 
 </div>
 ---
