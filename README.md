@@ -58,9 +58,9 @@
 
 ## 𖦹 current path
 
-<img src="https://img.shields.io/badge/building-fullstack%20projects-8B5CF6?style=for-the-badge&logo=githubspark&logoColor=white&labelColor=1E0B4F" />
-<img src="https://img.shields.io/badge/improving-react%20skills-A78BFA?style=for-the-badge&logo=react&logoColor=1E0B4F&labelColor=2D0B52" />
-<img src="https://img.shields.io/badge/working%20with-apis-C4B5FD?style=for-the-badge&logo=fastapi&logoColor=1E0B4F&labelColor=3B0764" />
+<img src="https://img.shields.io/badge/building-fullstack%20projects-8B5CF6?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=1E0B4F" />
+<img src="https://img.shields.io/badge/improving-react%20skills-A78BFA?style=for-the-badge&logo=react&logoColor=white&labelColor=2D0B52" />
+<img src="https://img.shields.io/badge/working%20with-apis-C4B5FD?style=for-the-badge&logo=swagger&logoColor=1E0B4F&labelColor=3B0764" />
 
 <br />
 <br />
@@ -81,12 +81,12 @@
   <img src="https://img.shields.io/badge/instagram-@bruzuppini-C4B5FD?style=for-the-badge&logo=instagram&logoColor=1E0B4F&labelColor=3B0764" />
 </a>
 
-<a href="https://linkedin.com/in/brunazuppini">
-  <img src="https://img.shields.io/badge/linkedin-bruna%20zuppini-A78BFA?style=for-the-badge&logo=linkedin&logoColor=1E0B4F&labelColor=2D0B52" />
+<a href="https://www.linkedin.com/in/brunazuppini/">
+  <img src="https://img.shields.io/badge/linkedin-bruna%20zuppini-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2D0B52" />
 </a>
 
 <a href="mailto:brunazuppini@gmail.com">
-  <img src="https://img.shields.io/badge/email-brunazuppini@gmail.com-B388FF?style=for-the-badge&logo=gmail&logoColor=1E0B4F&labelColor=240046" />
+  <img src="https://img.shields.io/badge/gmail-brunazuppini@gmail.com-B388FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=240046" />
 </a>
 
 </div>
