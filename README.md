@@ -19,44 +19,22 @@
 
 ## ☾ about me
 
-</div>
+<img src="https://i.pinimg.com/originals/0e/e3/86/0ee3869dd95cd4ae8c740bddb7148228.gif" width="420px" />
 
-<img align="right" src="https://i.pinimg.com/originals/0e/e3/86/0ee3869dd95cd4ae8c740bddb7148228.gif" width="300px" />
+<br />
+<br />
 
 ```yaml
-name: Bruna Zuppini
-role: Fullstack Developer
-
-code: JavaScript | TypeScript | SQL
-frontend: React | Vite | HTML | CSS
-backend: Node.js | NestJS | REST APIs
-tools: Git | GitHub | Insomnia | VS Code
-
-learning: Python | C++ | C#
+bruna:
+  role: Fullstack Developer
+  code: JavaScript | TypeScript | SQL
+  frontend: React | Vite | HTML | CSS
+  backend: Node.js | NestJS | REST APIs
+  tools: Git | GitHub | Insomnia | VS Code
+  learning: Python | C++ | C#
 ```
 
-<br clear="right" />
-
-<div align="center">
-
 `interfaces bonitas · APIs funcionais · projetos com personalidade`
-
-</div>
-
----
-
-<div align="center">
-
-## ✦ tech stack
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,nestjs,mysql,git,github,vscode" />
-
-<br />
-<br />
-
-<img src="https://img.shields.io/badge/Insomnia-9D4EDD?style=for-the-badge&logo=insomnia&logoColor=white" />
-<img src="https://img.shields.io/badge/REST%20APIs-C4B5FD?style=for-the-badge&logo=fastapi&logoColor=1E0B4F" />
-<img src="https://img.shields.io/badge/SQL-7C3AED?style=for-the-badge&logo=mysql&logoColor=white" />
 
 </div>
 
