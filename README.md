@@ -7,10 +7,6 @@
 ```txt
 ⋆｡°✩ somewhere between logic and moonlight ✩°｡⋆
 ```
-
-<img src="https://i.pinimg.com/originals/0e/e3/86/0ee3869dd95cd4ae8c740bddb7148228.gif" width="420px" />
-
-<br />
 <br />
 
 <img src="https://img.shields.io/badge/Frontend-7C3AED?style=for-the-badge&logo=react&logoColor=white" />
