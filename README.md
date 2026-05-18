@@ -77,8 +77,8 @@
 
 ## ✧ links
 
-<a href="https://github.com/bruzuppini">
-  <img src="https://img.shields.io/badge/github-bruzuppini-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=120A2A" />
+<a href="https://www.instagram.com/bruzuppini/">
+  <img src="https://img.shields.io/badge/instagram-@bruzuppini-C4B5FD?style=for-the-badge&logo=instagram&logoColor=1E0B4F&labelColor=3B0764" />
 </a>
 
 <a href="https://linkedin.com/in/brunazuppini">
