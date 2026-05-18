@@ -56,11 +56,16 @@
 
 ## 𖦹 current path
 
-| now | next |
-|---|---|
-| building fullstack projects | learning Python |
-| improving React skills | exploring C++ |
-| working with APIs | studying C# |
+<img src="https://img.shields.io/badge/building-fullstack%20projects-03000A?style=for-the-badge&logo=githubspark&logoColor=C4B5FD" />
+<img src="https://img.shields.io/badge/improving-React%20skills-1E0B4F?style=for-the-badge&logo=react&logoColor=C4B5FD" />
+<img src="https://img.shields.io/badge/working%20with-APIs-2D0B52?style=for-the-badge&logo=fastapi&logoColor=C4B5FD" />
+
+<br />
+<br />
+
+<img src="https://img.shields.io/badge/learning-Python-5B21B6?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/exploring-C++-7C3AED?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/studying-C%23-8B5CF6?style=for-the-badge&logo=csharp&logoColor=white" />
 
 </div>
 
@@ -71,15 +76,15 @@
 ## ✧ links
 
 <a href="https://github.com/bruzuppini">
-  <img src="https://img.shields.io/badge/GitHub-@bruzuppini-1E1B4B?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-03000A?style=for-the-badge&logo=github&logoColor=C4B5FD" />
 </a>
 
 <a href="https://linkedin.com/in/brunazuppini">
-  <img src="https://img.shields.io/badge/LinkedIn-Bruna%20Zuppini-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/linkedin-1E0B4F?style=for-the-badge&logo=linkedin&logoColor=C4B5FD" />
 </a>
 
 <a href="mailto:brunazuppini@gmail.com">
-  <img src="https://img.shields.io/badge/Email-brunazuppini@gmail.com-A855F7?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/email-2D0B52?style=for-the-badge&logo=gmail&logoColor=C4B5FD" />
 </a>
 
 </div>
