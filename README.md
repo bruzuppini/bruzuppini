@@ -35,7 +35,7 @@
 
 <strong>name:</strong> bruna zuppini <br />
 <strong>role:</strong> fullstack developer <br />
-<strong>code:</strong> javascript, typeScript, sql <br />
+<strong>code:</strong> javascript, typescript, sql <br />
 <strong>frontend:</strong> react, vite, html, css <br />
 <strong>backend:</strong> node.js, nestjs, rest api's <br />
 <strong>tools:</strong> git, insomnia, vs code <br />
