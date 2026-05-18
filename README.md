@@ -13,7 +13,7 @@
 <br />
 
 ```txt
-⋆｡°✩ somewhere between logic and moonlight ✩°｡⋆
+⋆｡°✩ 辛い時こそ目標を見失わないで。✩°｡⋆
 ```
 <br />
 
@@ -33,13 +33,13 @@
   <tr>
     <td width="60%" align="center" valign="middle">
 
-<strong>name:</strong> Bruna Zuppini <br />
-<strong>role:</strong> Fullstack Developer <br />
-<strong>code:</strong> JavaScript · TypeScript · SQL <br />
-<strong>frontend:</strong> React · Vite · HTML · CSS <br />
-<strong>backend:</strong> Node.js · NestJS · REST APIs <br />
-<strong>tools:</strong> Git · GitHub · Insomnia · VS Code <br />
-<strong>learning:</strong> Python · C++ · C#
+<strong>name:</strong> bruna zuppini <br />
+<strong>role:</strong> fullstack developer <br />
+<strong>code:</strong> javascript, typeScript, sql <br />
+<strong>frontend:</strong> react, vite, html, css <br />
+<strong>backend:</strong> node.js, nestjs, rest api's <br />
+<strong>tools:</strong> git, insomnia, vs code <br />
+<strong>learning:</strong> python, c++, c#
 
   </td>
 
@@ -96,7 +96,7 @@
 <div align="center">
 
 ```txt
-☾⋆｡𖦹 °✩ code, coffee and quiet constellations ✩° 𖦹｡⋆☽
+☾⋆｡𖦹 °✩ 何より大事なのは、人生を楽しむこと。幸せを感じること、それだけです。✩° 𖦹｡⋆☽
 ```
 
 <br />
