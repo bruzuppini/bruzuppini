@@ -7,6 +7,10 @@
 ```txt
 ⋆｡°✩ somewhere between logic and moonlight ✩°｡⋆
 ```
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,nestjs,mysql,git,github,vscode" />
 <br />
 
 <img src="https://img.shields.io/badge/Frontend-7C3AED?style=for-the-badge&logo=react&logoColor=white" />
@@ -48,15 +52,6 @@
 </div>
 
 ---
-
-<div align="center">
-
-## ✦ tech stack
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,nestjs,mysql,git,github,vscode" />
-
-<br />
-<br />
 
 <img src="https://img.shields.io/badge/Insomnia-7C3AED?style=for-the-badge&logo=insomnia&logoColor=white" />
 <img src="https://img.shields.io/badge/REST%20API-A855F7?style=for-the-badge&logo=fastapi&logoColor=white" />
