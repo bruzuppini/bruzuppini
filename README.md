@@ -83,7 +83,7 @@
 
 
 <a href="https://www.linkedin.com/in/brunazuppini/">
-  <img src="https://cdn.simpleicons.org/linkedin/A78BFA" width="34px" />
+  <img src="https://img.shields.io/badge/LinkedIn-Bruna%20Zuppini-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:brunazuppini@gmail.com">
