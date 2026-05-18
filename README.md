@@ -71,12 +71,9 @@ learning: Python | C++ | C#
 
 ## ☽ github
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=bruzuppini&show_icons=true&theme=tokyonight&hide_border=true&bg_color=03000A&title_color=C4B5FD&icon_color=8B5CF6&text_color=FFFFFF&cache_seconds=1800" />
-
-<br />
-<br />
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruzuppini&layout=compact&theme=tokyonight&hide_border=true&bg_color=03000A&title_color=C4B5FD&text_color=FFFFFF&cache_seconds=1800" />
+<img src="https://img.shields.io/badge/repositories-23-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=03000A" />
+<img src="https://img.shields.io/badge/followers-5-C4B5FD?style=for-the-badge&logo=github&logoColor=03000A&labelColor=03000A" />
+<img src="https://img.shields.io/badge/following-11-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=03000A" />
 
 </div>
 
@@ -87,15 +84,15 @@ learning: Python | C++ | C#
 ## ✧ links
 
 <a href="https://github.com/bruzuppini">
-  <img src="https://img.shields.io/badge/GitHub-@bruzuppini-03000A?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-03000A?style=for-the-badge&logo=github&logoColor=C4B5FD" />
 </a>
 
 <a href="https://linkedin.com/in/brunazuppini">
-  <img src="https://img.shields.io/badge/LinkedIn-Bruna%20Zuppini-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/linkedin-1E0B4F?style=for-the-badge&logo=linkedin&logoColor=C4B5FD" />
 </a>
 
 <a href="mailto:brunazuppini@gmail.com">
-  <img src="https://img.shields.io/badge/Email-brunazuppini@gmail.com-C4B5FD?style=for-the-badge&logo=gmail&logoColor=1E0B4F" />
+  <img src="https://img.shields.io/badge/email-2D0B52?style=for-the-badge&logo=gmail&logoColor=C4B5FD" />
 </a>
 
 </div>
