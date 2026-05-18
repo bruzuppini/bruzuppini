@@ -56,16 +56,16 @@
 
 ## 𖦹 current path
 
-<img src="https://img.shields.io/badge/building-fullstack%20projects-03000A?style=for-the-badge&logo=githubspark&logoColor=C4B5FD" />
-<img src="https://img.shields.io/badge/improving-React%20skills-1E0B4F?style=for-the-badge&logo=react&logoColor=C4B5FD" />
-<img src="https://img.shields.io/badge/working%20with-APIs-2D0B52?style=for-the-badge&logo=fastapi&logoColor=C4B5FD" />
+<img src="https://img.shields.io/badge/building-fullstack%20projects-7C3AED?style=for-the-badge&logo=githubspark&logoColor=white&labelColor=120A2A" />
+<img src="https://img.shields.io/badge/improving-React%20skills-8B5CF6?style=for-the-badge&logo=react&logoColor=white&labelColor=1E0B4F" />
+<img src="https://img.shields.io/badge/working%20with-APIs-A855F7?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=2D0B52" />
 
 <br />
 <br />
 
-<img src="https://img.shields.io/badge/learning-Python-5B21B6?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/exploring-C++-7C3AED?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/studying-C%23-8B5CF6?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/learning-Python-C4B5FD?style=for-the-badge&logo=python&logoColor=1E0B4F&labelColor=3B0764" />
+<img src="https://img.shields.io/badge/exploring-C++-B388FF?style=for-the-badge&logo=cplusplus&logoColor=1E0B4F&labelColor=4C1D95" />
+<img src="https://img.shields.io/badge/studying-C%23-9D4EDD?style=for-the-badge&logo=csharp&logoColor=white&labelColor=240046" />
 
 </div>
 
@@ -76,15 +76,15 @@
 ## ✧ links
 
 <a href="https://github.com/bruzuppini">
-  <img src="https://img.shields.io/badge/github-03000A?style=for-the-badge&logo=github&logoColor=C4B5FD" />
+  <img src="https://img.shields.io/badge/github-bruzuppini-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=120A2A" />
 </a>
 
 <a href="https://linkedin.com/in/brunazuppini">
-  <img src="https://img.shields.io/badge/linkedin-1E0B4F?style=for-the-badge&logo=linkedin&logoColor=C4B5FD" />
+  <img src="https://img.shields.io/badge/linkedin-Bruna%20Zuppini-A855F7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2D0B52" />
 </a>
 
 <a href="mailto:brunazuppini@gmail.com">
-  <img src="https://img.shields.io/badge/email-2D0B52?style=for-the-badge&logo=gmail&logoColor=C4B5FD" />
+  <img src="https://img.shields.io/badge/email-brunazuppini@gmail.com-C4B5FD?style=for-the-badge&logo=gmail&logoColor=1E0B4F&labelColor=3B0764" />
 </a>
 
 </div>
