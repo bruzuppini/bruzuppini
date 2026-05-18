@@ -23,28 +23,61 @@
 
 <table>
   <tr>
-    <td width="60%" valign="top">
-
-Desenvolvedora Fullstack focada em criar interfaces bonitas, APIs funcionais e projetos web com personalidade.
+    <td width="58%" valign="middle">
 
 ```yaml
 name: Bruna Zuppini
 role: Fullstack Developer
-code: JavaScript | TypeScript | SQL
-frontend: React | Vite | HTML | CSS
-backend: Node.js | NestJS | REST APIs
-tools: Git | GitHub | Insomnia | VS Code
-learning: Python | C++ | C#
+
+code:
+  - JavaScript
+  - TypeScript
+  - SQL
+
+frontend:
+  - React
+  - Vite
+  - HTML
+  - CSS
+
+backend:
+  - Node.js
+  - NestJS
+  - REST APIs
+
+tools:
+  - Git
+  - GitHub
+  - Insomnia
+  - VS Code
+
+learning:
+  - Python
+  - C++
+  - C#
 ```
 
   </td>
-  <td width="40%" align="center" valign="middle">
 
-<img src="https://i.pinimg.com/originals/0e/e3/86/0ee3869dd95cd4ae8c740bddb7148228.gif" width="260px" />
+  <td width="42%" align="center" valign="middle">
+
+<img src="https://i.pinimg.com/originals/0e/e3/86/0ee3869dd95cd4ae8c740bddb7148228.gif" width="260px" style="border-radius: 18px;" />
+
+<br />
+
+```txt
+✦ coding under violet skies ✦
+```
 
   </td>
   </tr>
 </table>
+
+<div align="center">
+
+Desenvolvedora Fullstack focada em criar interfaces bonitas, APIs funcionais e projetos web com personalidade.
+
+</div>
 ---
 
 <div align="center">
