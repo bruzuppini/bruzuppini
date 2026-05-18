@@ -97,4 +97,9 @@
 ☾⋆｡𖦹 °✩ code, coffee and quiet constellations ✩° 𖦹｡⋆☽
 ```
 
+<br />
+<br />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:050014,25:8B5CF6,50:C4B5FD,75:1E0B4F,100:03000A" />
+
 </div>
