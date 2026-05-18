@@ -4,14 +4,14 @@
 
 <div align="center">
 
-```txt
-⋆｡°✩ somewhere between logic and moonlight ✩°｡⋆
-```
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,nestjs,mysql,git,github,vscode" />
+<br />
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,nestjs,mysql,git,github,vscode" />
-<br />
+```txt
+⋆｡°✩ somewhere between logic and moonlight ✩°｡⋆
+```
 
 <img src="https://img.shields.io/badge/Frontend-7C3AED?style=for-the-badge&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/Backend-5B21B6?style=for-the-badge&logo=node.js&logoColor=white" />
